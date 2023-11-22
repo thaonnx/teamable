@@ -7,4 +7,4 @@ This is a demo application for the IT beginner course
 ### To package the application
     npm pack    
 
-Application run on port 10000
+Application run on port 10000, 9000
