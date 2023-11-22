@@ -6,3 +6,5 @@ This is a demo application for the IT beginner course
 
 ### To package the application
     npm pack    
+
+Application run on port 3000
