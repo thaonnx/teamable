@@ -5,6 +5,6 @@ This is a demo application for the IT beginner course
     npm run test
 
 ### To package the application
-    npm pack    
+    npm pack
 
-Application run on port 10000, 9000
+Application is running on port 7000
