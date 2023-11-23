@@ -1,2 +1,3 @@
-const userProfile = []
-const userProfile = ""
+const userProfiles = []
+const userProfiles = {}
+
