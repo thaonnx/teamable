@@ -7,4 +7,7 @@ This is a demo application for the IT beginner course
 ### To package the application
     npm pack
 
+### To start the application
+    npm run start
+    
 Application is running on port 7000, 9000, 27717
